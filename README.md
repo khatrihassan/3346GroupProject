@@ -7,7 +7,7 @@
 - [ ] Use all malignant training images and up to 5,000 benign training images
 - [ ] Resize and normalize images
 
-## 2. Baseline Model
+## 2. Baseline Model - Annas
 - [ ] Flatten images into pixel arrays
 - [ ] Implement and train logistic regression
 - [ ] Evaluate the model on validation data
@@ -20,7 +20,7 @@
 - [ ] Choose a classification threshold using validation data
 - [ ] Save the trained model
 
-## 4. Testing and Evaluation
+## 4. Testing and Evaluation - Annas
 - [ ] Evaluate both models on the same test set
 - [ ] Calculate accuracy, balanced accuracy and sensitivity
 - [ ] Create confusion matrices and compare model performance
