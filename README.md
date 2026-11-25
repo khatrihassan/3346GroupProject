@@ -34,14 +34,14 @@
 - [ ] Create README.md and requirements.txt
 - [ ] Make sure everything runs without errors
 
-## 6. Final Report
+## 6. Final Report - Hassan
 - [ ] Write the problem, motivation and background
 - [ ] Explain the dataset, baseline and CNN approach
 - [ ] Include results, graphs and model comparisons
 - [ ] Discuss limitations and future improvements
 - [ ] Complete the reproducibility appendix and group contributions
 
-## 7. Submission
+## 7. Submission - Hassan
 - [ ] Record the demonstration video
 - [ ] Review the report as a group
 - [ ] Make sure all code is pushed to GitHub
