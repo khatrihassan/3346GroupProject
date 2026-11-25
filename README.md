@@ -13,7 +13,7 @@
 - [ ] Evaluate the model on validation data
 - [ ] Save baseline results for comparison
 
-## 3. CNN Model
+## 3. CNN Model - Nathan
 - [ ] Implement a CNN with two convolutional layers using PyTorch
 - [ ] Handle class imbalance
 - [ ] Train the model and track training and validation loss
