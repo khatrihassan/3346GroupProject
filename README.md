@@ -1,13 +1,13 @@
 # 3346GroupProject
 
-## 1. Dataset and Preprocessing
+## 1. Dataset and Preprocessing - Katya
 - [ ] Download the ISIC 2024 dataset and check image labels
 - [ ] Check the number of benign and malignant images
 - [ ] Create a 70/15/15 patient-separated train, validation and test split
 - [ ] Use all malignant training images and up to 5,000 benign training images
 - [ ] Resize and normalize images
 
-## 2. Baseline Model
+## 2. Baseline Model - Katya
 - [ ] Flatten images into pixel arrays
 - [ ] Implement and train logistic regression
 - [ ] Evaluate the model on validation data
