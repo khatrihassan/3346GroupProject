@@ -7,7 +7,7 @@
 - [ ] Use all malignant training images and up to 5,000 benign training images
 - [ ] Resize and normalize images
 
-## 2. Baseline Model - Katya
+## 2. Baseline Model
 - [ ] Flatten images into pixel arrays
 - [ ] Implement and train logistic regression
 - [ ] Evaluate the model on validation data
